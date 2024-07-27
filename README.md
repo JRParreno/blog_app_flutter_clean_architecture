@@ -1,6 +1,8 @@
 # flutter_blog_app
 
-A Flutter blog a to demo Full clean architecture approach with dependency inversion and go router implementation.
+A Flutter blog app to demo Full clean architecture approach with dependency inversion and go router implementation.
+
+https://github.com/user-attachments/assets/8e69f600-2b72-49ee-b63f-b523e58e5ae8
 
 ## Getting Started
 
